@@ -21,7 +21,7 @@ const HeroSection = () => {
         className=" absolute top-1/3 transform  text-center w-full"
       >
         <div className=" max-w-4xl mx-auto px-16 sm:px-12">
-          <h1 className=" text-5xl text-transparent [-webkit-text-stroke:1px_white] font-bold tracking-wider mb-4">
+          <h1 className=" text-5xl text-transparent capitalize [-webkit-text-stroke:1px_white] font-bold tracking-wider mb-4">
             Start Your journey to finding the perfect place to call home
           </h1>
           <p className=" text-xl text-white mb-8">
